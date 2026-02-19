@@ -3,3 +3,42 @@
     padding: 0;
     font-family: 'Roboto';
 }
+
+.header img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100em;
+}
+
+.header {
+    display: flex;
+    background: #1F2937
+}
+
+#logo {
+    margin-left: 500px;
+}
+
+.header {
+    color: #E5E7EB;
+    justify-content: space;
+    font-size: 18px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkcontainer {
+    display: flex;
+    gap: 16px;
+    margin-left: 500px;
+}
+
+.linkcontainer a{
+    display: flex;
+    text-decoration: none;
+    color: #E5E7EB;
+}
