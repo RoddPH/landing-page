@@ -107,8 +107,11 @@
 
 .contentcontainer {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    margin-right: 30px;
+    gap: 64px;
     padding-bottom: 200px;
+    color: rgb(39, 39, 39);
 }
 
 .box {
