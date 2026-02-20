@@ -2,4 +2,4 @@
 This is my Odin Website Landing Page
 Created using basic html and css
 
-Our live website can be viewed [here](https://roddph.github.io/landing-page/)
+The live website can be viewed [here](https://roddph.github.io/landing-page/)
