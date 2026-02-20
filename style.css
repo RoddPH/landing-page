@@ -126,3 +126,30 @@
     border: 5px solid #3882F6;
     border-radius: 10%;
 }
+
+.content3 {
+    background: #E5E7EB;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content3 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    font-size: 36px;
+    height: 300px;
+    font-weight: 300;
+}
+
+.content3 h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-left: 37.21em;
+    margin-top: -100px;
+    height: 100px;
+}
+
+
+
